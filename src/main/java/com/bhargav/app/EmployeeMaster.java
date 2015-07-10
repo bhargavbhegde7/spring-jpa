@@ -8,7 +8,8 @@ import com.bhargav.config.BeanConfiguration;
 import com.bhargav.model.Employee;
 import com.bhargav.repo.EmployeeRepo;
 
-
+//this link
+//http://stackoverflow.com/questions/8313070/spring-bean-injection-in-a-main-method-class
 
 
 public class EmployeeMaster {
